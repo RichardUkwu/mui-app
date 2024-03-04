@@ -1,6 +1,6 @@
 {
   "name": "mui-app",
-  "private": true,
+  "private": false,
   "homepage": "https://richardukwu.github.io/mui-app",
   "version": "0.0.0",
   "type": "module",
